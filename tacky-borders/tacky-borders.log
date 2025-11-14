@@ -1,0 +1,1062 @@
+19:55:27 [ERROR] [src\lib.rs:127] could not start komorebi integration: could not spawn komorebi notification handler
+19:55:27 [INFO] [src\main.rs:31] starting tacky-borders
+19:55:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:55:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:55:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:55:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:55:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:55:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:55:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:55:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:55:31 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:55:33 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:55:40 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:55:48 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+19:55:49 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+19:55:52 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+19:55:52 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+19:57:40 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:57:40 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:57:41 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:58:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:00:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:03:20 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:03:20 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:03:26 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:04:26 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:05:36 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:06:58 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:07:30 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:07:42 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:07:42 [INFO] [src\config.rs:495] config.yaml has changed; reloading borders
+20:07:42 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:07:42 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:07:42 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:07:42 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:07:42 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:07:42 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:07:42 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:07:42 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:07:43 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:07:43 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:08:01 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:05 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:08:06 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:08:32 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:08:32 [INFO] [src\config.rs:495] config.yaml has changed; reloading borders
+20:08:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:33 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:08:37 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:08:37 [INFO] [src\config.rs:495] config.yaml has changed; reloading borders
+20:08:37 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:37 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:37 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:37 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:37 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:37 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:37 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:37 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:37 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:08:39 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:08:39 [INFO] [src\config.rs:495] config.yaml has changed; reloading borders
+20:08:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:40 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:08:44 [ERROR] [src\config.rs:318] could not reload config: global: data did not match any variant of untagged enum RadiusConfig at line 18 column 3
+20:08:44 [INFO] [src\config.rs:495] config.yaml has changed; reloading borders
+20:08:44 [ERROR] [src\config.rs:318] could not reload config: global: data did not match any variant of untagged enum RadiusConfig at line 18 column 3
+20:08:54 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:08:54 [INFO] [src\config.rs:495] config.yaml has changed; reloading borders
+20:08:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:08:55 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:09:03 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:09:03 [INFO] [src\config.rs:495] config.yaml has changed; reloading borders
+20:09:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:04 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:09:06 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:10 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:09:10 [INFO] [src\config.rs:495] config.yaml has changed; reloading borders
+20:09:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:10 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:09:11 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:09:11 [INFO] [src\config.rs:495] config.yaml has changed; reloading borders
+20:09:11 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:11 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:11 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:11 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:11 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:11 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:11 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:11 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:12 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:09:13 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:09:13 [INFO] [src\config.rs:495] config.yaml has changed; reloading borders
+20:09:13 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:13 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:13 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:13 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:13 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:13 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:13 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:13 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:13 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:09:14 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:09:14 [INFO] [src\config.rs:495] config.yaml has changed; reloading borders
+20:09:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:15 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:09:17 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:09:31 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:10:09 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:10:09 [INFO] [src\config.rs:495] config.yaml has changed; reloading borders
+20:10:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 00000
+20:10:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:10:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 00000
+20:10:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:10:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 00000
+20:10:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:10:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 00000
+20:10:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:10:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 00000
+20:10:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:10:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 00000
+20:10:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:10:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 00000
+20:10:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:10:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 00000
+20:10:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:10:10 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:10:12 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:10:12 [INFO] [src\config.rs:495] config.yaml has changed; reloading borders
+20:10:12 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:10:12 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:10:12 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:10:12 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:10:12 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:10:12 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:10:12 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:10:12 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:10:12 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:10:25 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:10:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:12:32 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:12:32 [INFO] [src\config.rs:495] config.yaml has changed; reloading borders
+20:12:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:12:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:12:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:12:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:12:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:12:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:12:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:12:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:12:32 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:12:38 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:13:27 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:13:27 [INFO] [src\config.rs:495] config.yaml has changed; reloading borders
+20:13:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:13:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:13:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:13:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:13:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:13:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:13:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:13:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:13:27 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:13:42 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:13:59 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:13:59 [INFO] [src\config.rs:495] config.yaml has changed; reloading borders
+20:13:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:13:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:13:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:13:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:13:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:13:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:13:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:13:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:13:59 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:14:02 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:14:02 [INFO] [src\config.rs:495] config.yaml has changed; reloading borders
+20:14:02 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:02 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:02 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:02 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:02 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:02 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:02 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:02 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:02 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:14:19 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:22 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:14:22 [INFO] [src\config.rs:495] config.yaml has changed; reloading borders
+20:14:22 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:22 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:22 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:22 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:22 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:22 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:22 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:22 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:23 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+20:14:45 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:51 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:52 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:58 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:26:17 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:45:24 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:51:07 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:51:56 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:58:57 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:59:20 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:59:28 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:59:35 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:59:42 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:00:07 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:00:21 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:00:30 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:00:31 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:00:42 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:00:45 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:00:55 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:01:07 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:02:56 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:09:56 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:10:52 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:20:17 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:20:22 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:22:51 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:23:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:24:37 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:24:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:24:45 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:25:18 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:25:20 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:25:28 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:25:43 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:26:20 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:26:20 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:26:57 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:42:33 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+05:43:43 [ERROR] [src\lib.rs:127] could not start komorebi integration: could not spawn komorebi notification handler
+05:43:44 [INFO] [src\main.rs:31] starting tacky-borders
+05:43:44 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+05:44:05 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+05:44:05 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+05:44:05 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+05:44:06 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+05:44:07 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+05:44:24 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+06:06:48 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+06:07:13 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+06:10:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+06:18:16 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+06:18:16 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+06:18:21 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+06:28:48 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+06:31:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+06:37:12 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+06:39:20 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+06:41:24 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+06:41:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+06:41:48 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+06:41:48 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x406de): Access is denied. (0x80070005)
+16:16:14 [ERROR] [src\lib.rs:127] could not start komorebi integration: could not spawn komorebi notification handler
+16:16:15 [INFO] [src\main.rs:31] starting tacky-borders
+16:16:15 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:18:04 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:19:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:19:47 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:23:25 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:25:24 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:25:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:27:05 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:27:21 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:28:18 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:28:31 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:29:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:29:44 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:32:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:32:34 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:32:40 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:32:46 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:34:17 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:34:24 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:34:58 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:35:06 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:35:08 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:35:08 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:35:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:35:16 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:35:25 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:36:26 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:37:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:37:16 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:37:19 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:38:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:38:50 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:39:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:39:19 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:39:19 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:39:35 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:39:35 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:40:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:40:25 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:40:30 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:40:43 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:40:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:40:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:41:06 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:41:12 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:41:25 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:41:25 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:41:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:41:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:59:30 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:59:30 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x4076a): Access is denied. (0x80070005)
+16:59:30 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x4076a): Access is denied. (0x80070005)
+16:59:30 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x4076a): Access is denied. (0x80070005)
+16:59:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:03:16 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:19:55 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:23:29 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:25:20 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:25:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:28:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:28:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:28:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:28:09 [ERROR] [src\utils.rs:73] could not get window rect for HWND(0x1706ee): The handle is invalid. (0x80070006)
+17:28:10 [ERROR] [src\utils.rs:73] could not get window rect for HWND(0x507b2): The handle is invalid. (0x80070006)
+17:28:21 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:28:26 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:28:43 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:28:44 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:28:45 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:28:45 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:28:45 [ERROR] [src\utils.rs:73] could not get window rect for HWND(0x140748): The handle is invalid. (0x80070006)
+17:28:48 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:29:04 [ERROR] [src\utils.rs:531] could not retrieve window process name for HWND(0xd03ca): could not open process of HWND(0xd03ca)
+17:29:04 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:29:04 [ERROR] [src\utils.rs:73] could not set window position for HWND(0xd03ca): Access is denied. (0x80070005)
+17:29:06 [ERROR] [src\utils.rs:519] could not retrieve window title for HWND(0x1f06c4): WIN32_ERROR(5)
+17:29:48 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:30:40 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:30:42 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:31:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:33:11 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:33:23 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:33:42 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:33:45 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:33:47 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:34:31 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:35:15 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:35:17 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:35:22 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:35:33 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:35:35 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:35:38 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:35:54 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+17:35:54 [INFO] [src\config.rs:495] config.yaml has changed; reloading borders
+17:35:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:35:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:35:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:35:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:35:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:35:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:35:55 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+17:36:01 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:36:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:36:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:36:18 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+17:36:18 [INFO] [src\config.rs:495] config.yaml has changed; reloading borders
+17:36:18 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:36:18 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:36:18 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:36:18 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:36:18 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:36:18 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:36:19 [ERROR] [src\config.rs:285] could not start komorebi integration: could not spawn komorebi notification handler
+17:36:25 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:36:49 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:37:05 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:39:12 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:39:31 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:39:33 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:39:47 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:39:57 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:39:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:40:00 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:40:00 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:40:01 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:40:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:40:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:40:30 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:40:38 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:40:55 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:41:12 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:41:38 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:41:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:41:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:41:55 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x209e0): Access is denied. (0x80070005)
+17:41:55 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x209e0): Access is denied. (0x80070005)
+17:41:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:42:17 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:42:30 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:42:53 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:44:42 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:45:11 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:45:25 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:45:40 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:45:41 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:45:47 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:45:49 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:45:52 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:45:53 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:45:55 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:45:57 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:45:57 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:46:06 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:46:06 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:47:29 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:48:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:48:36 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:49:33 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:49:36 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:49:38 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:49:40 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:51:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:51:52 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:52:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:52:49 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:52:53 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:52:58 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:53:05 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:53:05 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:53:05 [ERROR] [src\utils.rs:73] could not get window rect for HWND(0xa09c6): The handle is invalid. (0x80070006)
+17:53:05 [ERROR] [src\utils.rs:73] could not get window rect for HWND(0x4702c0): The handle is invalid. (0x80070006)
+17:53:08 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:53:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:53:24 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:54:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:55:07 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:55:18 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:55:24 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:56:16 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:56:16 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:56:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:58:29 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:58:48 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:58:57 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:58:57 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x70bf8): Access is denied. (0x80070005)
+17:58:57 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x70bf8): Access is denied. (0x80070005)
+17:58:57 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x70bf8): Access is denied. (0x80070005)
+17:59:05 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:59:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:59:18 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+17:59:18 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x170bb0): Access is denied. (0x80070005)
+17:59:18 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x170bb0): Access is denied. (0x80070005)
+18:00:24 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:00:24 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:00:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:00:58 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:02:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:03:31 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:04:04 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:05:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:07:30 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:07:45 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:07:55 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:08:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:08:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:08:31 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:09:06 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:10:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:10:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:10:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:10:42 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:10:49 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:10:49 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x60bbc): Access is denied. (0x80070005)
+18:10:49 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x60bbc): Access is denied. (0x80070005)
+18:12:12 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:12:19 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:12:19 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:12:50 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:13:06 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:13:06 [ERROR] [src\utils.rs:73] could not get window rect for HWND(0x2103ca): The handle is invalid. (0x80070006)
+18:13:07 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:13:08 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:13:08 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:13:23 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:13:34 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:13:36 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:13:47 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:13:48 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:13:48 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:13:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:13:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:14:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:16:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:16:52 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:17:25 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:17:26 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:17:38 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:18:04 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:18:06 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:18:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:18:28 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:20:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:20:51 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:20:56 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:20:57 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:20:58 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:22:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:23:46 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:23:51 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:24:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:28:55 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:29:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:37:11 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:46:56 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:04:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:04:29 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:07:48 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:22:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:26:01 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:28:38 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:43:45 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:44:29 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:51:40 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:51:58 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:52:02 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:52:02 [ERROR] [src\utils.rs:531] could not retrieve window process name for HWND(0x50a62): could not open process of HWND(0x50a62)
+19:52:02 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:52:02 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x50a62): Access is denied. (0x80070005)
+19:52:28 [ERROR] [src\utils.rs:519] could not retrieve window title for HWND(0x190a14): WIN32_ERROR(5)
+19:52:29 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:52:29 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x270724): Access is denied. (0x80070005)
+19:52:29 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x270724): Access is denied. (0x80070005)
+19:52:29 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:52:29 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:52:29 [ERROR] [src\utils.rs:73] could not get window rect for HWND(0x1108a8): The handle is invalid. (0x80070006)
+19:52:29 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x5098e): Access is denied. (0x80070005)
+19:52:29 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x5098e): Access is denied. (0x80070005)
+19:52:29 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x5098e): Access is denied. (0x80070005)
+19:52:30 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:52:31 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x280724): Access is denied. (0x80070005)
+19:52:31 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x280724): Access is denied. (0x80070005)
+19:52:31 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:52:31 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:52:31 [ERROR] [src\utils.rs:73] could not get window rect for HWND(0x80a00): The handle is invalid. (0x80070006)
+19:52:31 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x40988): Access is denied. (0x80070005)
+19:52:31 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x40988): Access is denied. (0x80070005)
+19:53:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:54:01 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:54:46 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:54:46 [ERROR] [src\utils.rs:73] could not get window rect for HWND(0x120cbe): The handle is invalid. (0x80070006)
+19:54:46 [INFO] [src\utils.rs:824] border is disabled for HWND(0x130cbe)
+19:54:51 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:54:53 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:54:53 [ERROR] [src\utils.rs:73] could not get window rect for HWND(0xf087e): The handle is invalid. (0x80070006)
+19:55:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:55:21 [INFO] [src\utils.rs:824] border is disabled for HWND(0x13099c)
+19:55:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:55:48 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:55:49 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:56:04 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:56:23 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:56:25 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:56:25 [ERROR] [src\utils.rs:73] could not set window position for HWND(0xf036c): Access is denied. (0x80070005)
+19:56:25 [ERROR] [src\utils.rs:73] could not set window position for HWND(0xf036c): Access is denied. (0x80070005)
+19:58:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:58:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:58:04 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:58:04 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:58:04 [ERROR] [src\utils.rs:73] could not get window rect for HWND(0x70aba): The handle is invalid. (0x80070006)
+20:01:00 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:01:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:01:38 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:01:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:02:02 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:02:05 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:02:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:02:19 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:02:30 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:02:31 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:02:31 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:03:28 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:03:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:03:36 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:03:40 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:03:58 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:04:02 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:11:38 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:11:44 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:13:07 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:13:07 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x2b03c2): Access is denied. (0x80070005)
+20:13:07 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x2b03c2): Access is denied. (0x80070005)
+20:13:44 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:42 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:14:51 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:15:06 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:15:34 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:15:37 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:16:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:16:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:16:28 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:17:08 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:17:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:17:29 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:17:30 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:17:33 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:17:36 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:17:36 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:17:36 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:17:49 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:19:45 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:19:47 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:38:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:50:31 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:53:16 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:54:13 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:54:13 [ERROR] [src\utils.rs:73] could not set window position for HWND(0xe038e): Access is denied. (0x80070005)
+21:07:06 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:10:47 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:14:51 [ERROR] [src\lib.rs:127] could not start komorebi integration: could not spawn komorebi notification handler
+21:14:52 [INFO] [src\main.rs:31] starting tacky-borders
+21:14:52 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:14:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:15:00 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:15:08 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:15:08 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:15:24 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:17:35 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:17:57 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:18:00 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:18:43 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:18:53 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:19:16 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:20:16 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:20:57 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:21:16 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:21:28 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:21:44 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:26:37 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:26:52 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:27:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:31:50 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:34:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:56:21 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:56:22 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+22:05:04 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+22:08:42 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+22:13:21 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+22:14:36 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:26:41 [ERROR] [src\lib.rs:127] could not start komorebi integration: could not spawn komorebi notification handler
+09:26:41 [INFO] [src\main.rs:31] starting tacky-borders
+09:26:41 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:26:43 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:27:26 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:27:26 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:28:17 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:28:22 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:28:29 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:28:29 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x500c8): Access is denied. (0x80070005)
+09:28:29 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x500c8): Access is denied. (0x80070005)
+09:28:29 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:28:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:29:01 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:29:15 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:29:24 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:31:28 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:34:38 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:34:50 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:37:49 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:38:02 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:38:57 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:39:08 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:39:17 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:39:22 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:39:25 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:39:29 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:39:31 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:39:34 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:39:42 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:40:30 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:40:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:40:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:42:18 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:42:52 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:44:02 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:44:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:44:18 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:46:13 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:46:13 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:46:18 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:47:01 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:47:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:47:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:47:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:48:04 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:48:20 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:48:56 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:49:05 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:49:25 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:52:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:52:43 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:54:26 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:54:28 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:54:57 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:55:36 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:55:36 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:55:41 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:55:44 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:58:25 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:58:25 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:58:28 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:59:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:59:15 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:59:24 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:59:26 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:59:31 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:59:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:59:55 [INFO] [src\utils.rs:824] border is disabled for HWND(0x30106)
+09:59:57 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+09:59:58 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+10:00:01 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+10:00:12 [INFO] [src\utils.rs:824] border is disabled for HWND(0x40656)
+10:00:15 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+10:02:12 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+10:06:05 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+10:17:51 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+10:17:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+10:18:38 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+10:19:18 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+10:20:22 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+10:22:36 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+10:22:36 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+10:27:38 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+10:29:11 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+10:29:11 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x501f8): Access is denied. (0x80070005)
+11:25:34 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:25:34 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:26:45 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:26:45 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x150940): Access is denied. (0x80070005)
+11:26:45 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x150940): Access is denied. (0x80070005)
+11:32:29 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:34:11 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:34:35 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:34:41 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:34:41 [ERROR] [src\utils.rs:73] could not get window rect for HWND(0xa06fc): The handle is invalid. (0x80070006)
+11:34:52 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:34:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:34:59 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x1505de): Access is denied. (0x80070005)
+11:34:59 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x1505de): Access is denied. (0x80070005)
+11:35:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:35:12 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:35:21 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:35:21 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:37:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:38:15 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:38:16 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:38:16 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:38:19 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:38:37 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:39:43 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:39:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:40:38 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:41:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:41:36 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:42:40 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:42:47 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:42:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:48:31 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:48:31 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:48:32 [ERROR] [src\utils.rs:73] could not get window rect for HWND(0x1907f0): The handle is invalid. (0x80070006)
+11:48:33 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:51:22 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:58:57 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:58:57 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+11:58:57 [ERROR] [src\utils.rs:73] could not get window rect for HWND(0x210b5a): The handle is invalid. (0x80070006)
+11:58:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+12:00:44 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+12:00:44 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+12:00:44 [ERROR] [src\utils.rs:73] could not get window rect for HWND(0x1e074c): The handle is invalid. (0x80070006)
+12:00:46 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+12:10:02 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+12:11:49 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+12:11:49 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x706f6): Access is denied. (0x80070005)
+14:15:38 [ERROR] [src\lib.rs:127] could not start komorebi integration: could not spawn komorebi notification handler
+14:15:39 [INFO] [src\main.rs:31] starting tacky-borders
+14:15:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:15:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:15:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:15:58 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:15:58 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:16:01 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:16:01 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:20:04 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:20:25 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:26:46 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:27:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:31:15 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:33:35 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:34:06 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:34:10 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:34:13 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:34:16 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:34:26 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:34:26 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:34:26 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x706d8): Access is denied. (0x80070005)
+14:34:26 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x706d8): Access is denied. (0x80070005)
+14:35:25 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:37:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:38:19 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:38:21 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:38:30 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:38:30 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:39:11 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:39:23 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:39:47 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:39:55 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:40:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:40:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:40:40 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:40:43 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:40:44 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:40:47 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:40:52 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:40:56 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:41:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:41:12 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:41:53 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:41:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:42:26 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:42:51 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:43:05 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:43:12 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:43:16 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:43:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:43:28 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:44:35 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:44:38 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:44:43 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:44:51 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:45:15 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:45:21 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:45:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:45:44 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:46:29 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:46:34 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:46:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:46:45 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:46:57 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:47:02 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:47:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:47:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:47:22 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:47:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:47:32 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:47:36 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:47:55 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:47:59 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:48:15 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:48:41 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:48:45 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:48:51 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:49:02 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:49:34 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:49:38 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:50:36 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:50:38 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:51:18 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:51:22 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:51:25 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:51:35 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:51:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:52:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:52:17 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:52:53 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:53:00 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:53:28 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:53:46 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+14:53:46 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x407b6): Access is denied. (0x80070005)
+14:53:46 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x407b6): Access is denied. (0x80070005)
+14:59:36 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:02:24 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:02:29 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:10:45 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:18:57 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:19:07 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:19:31 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:19:38 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:20:45 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:22:45 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:23:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:25:26 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:25:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:25:54 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x900b8): Access is denied. (0x80070005)
+15:25:54 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x900b8): Access is denied. (0x80070005)
+15:25:57 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:26:24 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:26:24 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x707d6): Access is denied. (0x80070005)
+15:26:24 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x707d6): Access is denied. (0x80070005)
+15:27:12 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:27:42 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:27:49 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:27:49 [ERROR] [src\utils.rs:73] could not set window position for HWND(0xd0806): Access is denied. (0x80070005)
+15:28:02 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:28:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:28:14 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x12065e): Access is denied. (0x80070005)
+15:28:14 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x12065e): Access is denied. (0x80070005)
+15:28:25 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:28:25 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x608e0): Access is denied. (0x80070005)
+15:28:25 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x608e0): Access is denied. (0x80070005)
+15:28:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:28:27 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x2e0796): Access is denied. (0x80070005)
+15:28:27 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x2e0796): Access is denied. (0x80070005)
+15:28:29 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:28:29 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:28:41 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:28:41 [ERROR] [src\utils.rs:73] could not set window position for HWND(0xc08a8): Access is denied. (0x80070005)
+15:28:41 [ERROR] [src\utils.rs:73] could not set window position for HWND(0xc08a8): Access is denied. (0x80070005)
+15:28:49 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:28:49 [ERROR] [src\utils.rs:73] could not set window position for HWND(0xb091c): Access is denied. (0x80070005)
+15:29:38 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:29:38 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x2d0720): Access is denied. (0x80070005)
+15:29:38 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x2d0720): Access is denied. (0x80070005)
+15:29:52 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:29:53 [ERROR] [src\utils.rs:73] could not set window position for HWND(0xb0802): Access is denied. (0x80070005)
+15:29:53 [ERROR] [src\utils.rs:73] could not set window position for HWND(0xb0802): Access is denied. (0x80070005)
+15:31:38 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:31:38 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:31:38 [ERROR] [src\utils.rs:73] could not get window rect for HWND(0x908da): The handle is invalid. (0x80070006)
+15:31:40 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:31:40 [ERROR] [src\utils.rs:73] could not get window rect for HWND(0xe08b0): The handle is invalid. (0x80070006)
+15:31:41 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:36:13 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:36:18 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:36:25 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:37:40 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:38:52 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:38:56 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:39:46 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:40:56 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:42:18 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:42:18 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:43:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:44:43 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:44:43 [ERROR] [src\utils.rs:73] could not get window rect for HWND(0x508c2): The handle is invalid. (0x80070006)
+16:01:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:04:24 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:19:49 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:43:49 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:44:17 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:44:47 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:46:51 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:47:12 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:55:13 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:55:13 [ERROR] [src\utils.rs:73] could not set window position for HWND(0x220872): Access is denied. (0x80070005)
+17:11:24 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:14:25 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:17:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:41:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+18:41:42 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:10:39 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:15:19 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:15:20 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:15:26 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:16:13 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:43:33 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:43:33 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:43:35 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:43:35 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:45:22 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+19:45:22 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:01:00 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:40:42 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:41:02 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:41:02 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:43:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:43:03 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:43:08 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:43:08 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:43:13 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:43:13 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+20:55:46 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:02:27 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:02:51 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:05:54 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:17:52 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:17:52 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:17:52 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:21:53 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:28:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:28:14 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:29:04 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:29:11 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:29:11 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:29:26 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:29:26 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:31:24 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:35:40 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:43:05 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:43:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:43:09 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:55:37 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:57:01 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+21:57:02 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:52:58 [ERROR] [src\lib.rs:127] could not start komorebi integration: could not spawn komorebi notification handler
+15:52:58 [INFO] [src\main.rs:31] starting tacky-borders
+15:52:58 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:57:21 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:58:43 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+15:58:46 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:02:17 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:02:53 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:03:04 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:03:07 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:03:11 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:04:33 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:06:45 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:06:45 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
+16:07:07 [ERROR] [src\colors.rs:428] could not parse hex: invalid hex: 0000000
